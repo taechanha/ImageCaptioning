@@ -2,6 +2,8 @@
 
 CNN as an encoder, RNN as a decoder
 ------------------------------------
-![title](./overview.png)
-![ex_screenshot](./image.png)
+<img src="./overview.png" width="100" />
+<img src="./image.png" width="100" />
+//![title](./overview.png)
+//![ex_screenshot](./image.png)
 
