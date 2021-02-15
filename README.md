@@ -3,6 +3,6 @@
 CNN as an encoder, RNN as a decoder
 ------------------------------------
 
-![ex_screenshot](./overview_.png)
+![ex_screenshot](./overview_.jpg)
 
 
